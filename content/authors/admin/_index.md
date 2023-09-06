@@ -73,5 +73,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a fourth-year computer science undergraduate student in computer science at the University of Toronto, where I am also working as an undergraduate research assistant at the DGP (Dynamic Graphics Project) Lab under the supervision of Professor Tovi Grossman and Dr. Ludwig Sidenmark. I worked as an asssistant engineer at Huawei Human Machine Interaction Lab and 
+as an undergraduate research assistant at Forcolab under the supervision of Professor Shurui Zhou.
 {style="text-align: justify;"}
