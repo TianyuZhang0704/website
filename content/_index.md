@@ -72,7 +72,7 @@ sections:
         - title: Undergraduate Research Assistant
           company: Dynamic Graphics Project (DGP) Lab, University of Toronto
           company_url: 'https://www.dgp.toronto.edu/'
-          company_logo: dgp
+          company_logo: ''
           location: Toronto
           date_start: '2023-05-01'
           date_end: ''
@@ -80,7 +80,7 @@ sections:
         - title: Undergraduate Research Assistant
           company: Forcolab, University of Toronto
           company_url: 'https://shuiblue.github.io/forcolab-uoft/'
-          company_logo: forcolab
+          company_logo: ''
           location: Toronto
           date_start: '2022-05-01'
           date_end: '2023-09-28'
