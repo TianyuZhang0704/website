@@ -69,27 +69,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Undergraduate Research Assistant
+          company: Dynamic Graphics Project (DGP) Lab, University of Toronto
+          company_url: 'https://www.dgp.toronto.edu/'
+          company_logo: dgp
+          location: Toronto
+          date_start: '2023-05-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Research on HCI at Professor Tovi Grossman’s lab under the supervision of Dr. Ludwig Sidenmark.
+        - title: Undergraduate Research Assistant
+          company: Forcolab, University of Toronto
+          company_url: 'https://shuiblue.github.io/forcolab-uoft/'
+          company_logo: forcolab
+          location: Toronto
+          date_start: '2022-05-01'
+          date_end: '2023-09-28'
+          description: Research on software engineering at Forcolab under the supervision of Professor Shurui Zhou.
     design:
       columns: '2'
   # - block: accomplishments
