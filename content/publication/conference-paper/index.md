@@ -1,23 +1,26 @@
 ---
-title: 'An example conference paper'
+title: 'Who to Blame: A Comprehensive Review of Challenges and Opportunities
+in Designer‑Developer Collaboration'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Shutong Zhang
   - admin
-  - Robert Ford
+  - Jinghui Cheng
+  - Shurui Zhou
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-09-28T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +29,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: Submitted to *ACM International Conference on the Foundations of Software Engineering*
+publication_short: Submitted to *FSE*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Software development relies on effective collaboration between Software Development Engineers (SDEs) and User eXperience Designers (UXDs) to create software products of high quality and usability. While this collaboration issue has been explored over the past decades, anecdotal evidence continues to indicate the existence of challenges in their collaborative efforts. To understand this gap, we first conducted a systematic literature review of 44 papers published since 2005, uncovering three key collaboration challenges and two main best practices. We then analyzed designer and developer forums and discussions on open-source software repositories to assess how the challenges and practices manifest in the status quo. Our findings have broad applicability for collaboration in software development, extending beyond the partnership between SDEs and UXDs. The suggested best practices and interventions also act as a reference for future research, assisting in the development of dedicated collaboration tools for SDEs and UXDs.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Software development relies on effective collaboration between Software Development Engineers (SDEs) and User eXperience Designers (UXDs) to create software products of high quality and usability. While this collaboration issue has been explored over the past decades, anecdotal evidence continues to indicate the existence of challenges in their collaborative efforts. To understand this gap, we first conducted a systematic literature review of 44 papers published since 2005, uncovering three key collaboration challenges and two main best practices. We then analyzed designer and developer forums and discussions on open-source software repositories to assess how the challenges and practices manifest in the status quo. Our findings have broad applicability for collaboration in software development, extending beyond the partnership between SDEs and UXDs. The suggested best practices and interventions also act as a reference for future research, assisting in the development of dedicated collaboration tools for SDEs and UXDs.
 
 tags: []
 
@@ -45,18 +48,18 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
+url_code: ''
+url_dataset: ''
+url_poster: 'https://tianyuzhang0704.github.io/documents/Poster.pdf'
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
