@@ -93,8 +93,8 @@ sections:
           date_start: '2022-07-11'
           date_end: '2023-07-07'
           description: |2-
-          - Developed sensor based prototypes to enhance user’s experiences on smartphones and on‑body devices (smartwatches, smart glasses, etc.).
-          - Applied for patents and filled in invention disclosure forms.
+              * Developed sensor based prototypes to enhance user’s experiences on smartphones and on‑body devices (smartwatches, smart glasses, etc.).
+              * Applied for patents and filled in invention disclosure forms.
         - title: Front End Developer Intern
           company: Beijing Sunac Nebulape Technology
           company_url: ''
@@ -103,8 +103,8 @@ sections:
           date_start: '2021-05-01'
           date_end: '2021-08-01'
           description: |2-
-          - Developed SUNAC C&T CLUB WeChat, Alipay Mini Program and HTML5 pages with 100, 000+ users.
-          - Implemented functions including comment list, product list, coupon detail, and check in calendar.
+              * Developed SUNAC C&T CLUB WeChat, Alipay Mini Program and HTML5 pages with 100, 000+ users.
+              * Implemented functions including comment list, product list, coupon detail, and check in calendar.
     design:
       columns: '2'
   # - block: accomplishments
