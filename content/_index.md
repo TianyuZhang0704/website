@@ -85,6 +85,26 @@ sections:
           date_start: '2022-05-01'
           date_end: '2023-09-28'
           description: Research on software engineering at Forcolab under the supervision of Professor Shurui Zhou.
+        - title: HMI Lab Assistant Engineer
+          company: Huawei Technologies Canada Co., Ltd.
+          company_url: ''
+          company_logo: ''
+          location: Markham
+          date_start: '2022-07-11'
+          date_end: '2023-07-07'
+          description: |2-
+          - Developed sensor based prototypes to enhance user’s experiences on smartphones and on‑body devices (smartwatches, smart glasses, etc.).
+          - Applied for patents and filled in invention disclosure forms.
+        - title: Front End Developer Intern
+          company: Beijing Sunac Nebulape Technology
+          company_url: ''
+          company_logo: ''
+          location: Markham
+          date_start: '2021-05-01'
+          date_end: '2021-08-01'
+          description: |2-
+          - Developed SUNAC C&T CLUB WeChat, Alipay Mini Program and HTML5 pages with 100, 000+ users.
+          - Implemented functions including comment list, product list, coupon detail, and check in calendar.
     design:
       columns: '2'
   # - block: accomplishments
@@ -205,8 +225,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Research
+          tag: Research
         - name: Other
           tag: Demo
     design:
