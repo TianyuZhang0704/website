@@ -10,13 +10,13 @@ main:
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
-  - name: Publications
+  - name: Experience
     url: '#featured'
     weight: 10
-  - name: Projects
+  - name: Publications
     url: '#projects'
     weight: 20
-  - name: Presentations
+  - name: Projects
     url: '#talks'
     weight: 30
   # - name: Contact

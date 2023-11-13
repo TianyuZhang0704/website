@@ -22,11 +22,11 @@ organizations:
     url: https://www.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AR/VR, interfaces, Inertial Odometry, and Ubiquitous Computing in HCI and collaboration in Software Engineering.
+bio: My research interests include AR/VR, Interfaces, User Experience Design, Inertial Odometry, and Ubiquitous Computing in HCI and collaboration in Software Engineering.
 
 # Interests to show in About widget
 interests:
-  - HCI (AR/VR, interfaces, Inertial Odometry, and Ubiquitous Computing)
+  - HCI (AR/VR, Interfaces, User Experience Design, Ubiquitous Computing)
   - Software Engineering (collaboration)
 
 # Education to show in About widget
@@ -41,9 +41,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'tianyutheodosia.zhang@mail.utoronto.ca'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'tianyutheodosia.zhang@mail.utoronto.ca'
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
