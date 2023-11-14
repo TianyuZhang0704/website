@@ -1,6 +1,6 @@
 ---
 title: "Using On‑Body Microphone to Improve User Interaction with Smart
-Devices. CN Patent Application No. PCT/CN2022/143796"
+Devices"
 authors:
 - Qiang Xu
 - Ting Li
@@ -20,9 +20,9 @@ publishDate: "2022-12-30T00:00:00Z"
 publication_types: ["8"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Beijing: China National Intellectual Property
+publication: "CN Patent Application No. PCT/CN2022/143796. Beijing: China National Intellectual Property
 Administration"
-publication_short: "Beijing: China National Intellectual Property
+publication_short: "CN Patent Application No. PCT/CN2022/143796. Beijing: China National Intellectual Property
 Administration"
 
 abstract: Using On‑Body Microphone to Improve User Interaction with Smart Devices.

@@ -1,5 +1,5 @@
 ---
-title: "The Midlife Mind: Literature and the Art of Ageing (Chinese Edition) (ISBN 978‑7‑5184‑3608‑8)"
+title: "The Midlife Mind: Literature and the Art of Ageing (Chinese Edition)"
 authors:
 - Xuan Qi
 - admin
@@ -19,8 +19,8 @@ publishDate: "2021-11-01T00:00:00Z"
 publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
-publication: "China Light Industry Press"
-publication_short: "China Light Industry Press"
+publication: "ISBN 978‑7‑5184‑3608‑8. China Light Industry Press"
+publication_short: "ISBN 978‑7‑5184‑3608‑8. China Light Industry Press"
 
 abstract: The meaning of life is a common concern, but what is the meaning of midlife? With the help of illustrious writers such as Dante, Montaigne, Beauvoir, Goethe, and Beckett, The Midlife Mind sets out to answer this question. Erudite but engaging, it takes a personal approach to that most impersonal of processes, aging. From the ancients to the moderns, from poets to playwrights, writers have long meditated on how we can remain creative as we move through our middle years. There are no better guides, then, to how we have regarded middle age in the past, how we understand it in the present, and how we might make it as rewarding as possible in the future.
 
