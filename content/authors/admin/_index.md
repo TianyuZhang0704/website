@@ -47,8 +47,8 @@ social:
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: profile
-    icon_pack: fab
+  - icon: palette
+    icon_pack: fas
     link: https://tianyuzhangartportfolio.wordpress.com/
   - icon: github
     icon_pack: fab
