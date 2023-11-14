@@ -1,6 +1,5 @@
 ---
-title: 
-Game QA Test Platform
+title: Game QA Test Platform
 summary: A centralized and scalable website made for Simulence company that allows game companies to find volunteer QA testers, perform QA testing via cloud gaming services remotely, and get feedback. Tech Stack including Vue.js, HTML, CSS, JavaScript, Java Spring Boot & Maven, Mongo DB, CircleCI, Heroku.
 tags:
   - Software
