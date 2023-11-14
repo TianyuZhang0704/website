@@ -148,7 +148,7 @@ sections:
       view: card
   - block: collection
     content:
-      title: Recent Publications
+      title: All Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -156,7 +156,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
