@@ -25,12 +25,10 @@ Administration"
 publication_short: "Beijing: China National Intellectual Property
 Administration"
 
-abstract: Using On‑Body Microphone to Improve User Interaction with Smart
-Devices.
+abstract: Using On‑Body Microphone to Improve User Interaction with Smart Devices.
 
 # Summary. An optional shortened abstract.
-summary: Using On‑Body Microphone to Improve User Interaction with Smart
-Devices.
+summary: Using On‑Body Microphone to Improve User Interaction with Smart Devices.
 
 tags:
 - Source Themes
