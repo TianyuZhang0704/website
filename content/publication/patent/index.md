@@ -31,7 +31,7 @@ abstract: Using On‑Body Microphone to Improve User Interaction with Smart Devi
 summary: Using On‑Body Microphone to Improve User Interaction with Smart Devices.
 
 tags:
-- Source Themes
+- Patent
 featured: false
 
 links:

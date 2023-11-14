@@ -28,7 +28,7 @@ abstract: The meaning of life is a common concern, but what is the meaning of mi
 summary: Translated Ben Hutchinson’s The Midlife Mind into Chinese (ISBN 978-7-5184-3608-8).
 
 tags:
-- Source Themes
+- Translation
 featured: false
 
 # links:
