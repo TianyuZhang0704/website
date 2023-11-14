@@ -189,8 +189,10 @@ sections:
           tag: '*'
         - name: Research
           tag: Research
-        - name: Other
-          tag: Demo
+        - name: Game
+          tag: Game
+        - name: Software
+          tag: Software
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
