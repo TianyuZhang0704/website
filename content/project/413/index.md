@@ -1,12 +1,6 @@
 ---
 title: Convolutional Sequence to Sequence Learning in English to French Neural Machine Translation
-summary: This paper focuses on improving the training time performance of the Bi-LSTM1
-model in Neural Machine Translation. We used CNN with attention such that it can2
-make full use of parallelization and layers in convolutional neural networks, so that3
-the optimized model will be faster. We trained both Bi-LSTM model and ConvS2S4
-model on the WMT’20 English-French dataset. The result shows that not only the5
-training time of ConvS2S is much faster than Bi-LSTM model on GPU, ConvS2S6
-also outperforms Bi-LSTM on translation accuracy evaluated by the BLEU score.
+summary: This paper focuses on improving the training time performance of the Bi-LSTM1 model in Neural Machine Translation. We used CNN with attention such that it can make full use of parallelization and layers in convolutional neural networks, so that the optimized model will be faster. We trained both Bi-LSTM model and ConvS2S model on the WMT’20 English-French dataset. The result shows that not only the training time of ConvS2S is much faster than Bi-LSTM model on GPU, ConvS2S also outperforms Bi-LSTM on translation accuracy evaluated by the BLEU score.
 tags:
   - ml
 date: "2022-03-01T00:00:00Z"
