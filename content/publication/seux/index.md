@@ -30,7 +30,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: Submitted to *ACM International Conference on the Foundations of Software Engineering*
-publication_short: Submitted to *FSE*
+publication_short: Submitted to *FSE 2024*
 
 abstract: Software development relies on effective collaboration between Software Development Engineers (SDEs) and User eXperience Designers (UXDs) to create software products of high quality and usability. While this collaboration issue has been explored over the past decades, anecdotal evidence continues to indicate the existence of challenges in their collaborative efforts. To understand this gap, we first conducted a systematic literature review of 44 papers published since 2005, uncovering three key collaboration challenges and two main best practices. We then analyzed designer and developer forums and discussions on open-source software repositories to assess how the challenges and practices manifest in the status quo. Our findings have broad applicability for collaboration in software development, extending beyond the partnership between SDEs and UXDs. The suggested best practices and interventions also act as a reference for future research, assisting in the development of dedicated collaboration tools for SDEs and UXDs.
 
