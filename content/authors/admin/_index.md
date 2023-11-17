@@ -22,12 +22,12 @@ organizations:
     url: https://www.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AR/VR, Interfaces, User Experience Design, Inertial Odometry, and Ubiquitous Computing in HCI and collaboration in Software Engineering.
+bio: My research interests include AR/VR, Avatars, User Experience Design, Ubiquitous Computing, and Collaboration in HCI and Collaborative Software Development, GitHub, Game Development in Software Engineering.
 
 # Interests to show in About widget
 interests:
-  - HCI (AR/VR, Interfaces, User Experience Design, Ubiquitous Computing)
-  - Software Engineering (collaboration)
+  - HCI (AR/VR, Avatars, User Experience Design, Ubiquitous Computing, and Collaboration)
+  - Software Engineering (Collaborative Software Development, GitHub, and Game Development)
 
 # Education to show in About widget
 education:
