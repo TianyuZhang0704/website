@@ -192,7 +192,7 @@ sections:
           tag: Game
         - name: Software
           tag: Software
-        - name: Machine Learning
+     #   - name: Machine Learning
           tag: ml
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
