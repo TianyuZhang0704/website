@@ -86,7 +86,7 @@ sections:
           date_start: '2022-05-01'
           date_end: '2023-09-28'
           description: Research on software engineering at Forcolab under the supervision of Professor Shurui Zhou.
-        - title: HMI Lab Assistant Engineer
+        - title: Assistant Engineer
           company: Huawei Technologies Canada Co., Ltd.
           company_url: ''
           company_logo: ''
@@ -94,18 +94,17 @@ sections:
           date_start: '2022-07-11'
           date_end: '2023-07-07'
           description: |2-
-              * Developed sensor based prototypes to enhance user’s experiences on smartphones and on‑body devices (smartwatches, smart glasses, etc.).
-              * Applied for patents and filled in invention disclosure forms.
-        - title: Front End Developer Intern
-          company: Beijing Sunac Nebulape Technology
-          company_url: ''
-          company_logo: ''
-          location: Beijing
-          date_start: '2021-05-01'
-          date_end: '2021-08-01'
-          description: |2-
-              * Developed SUNAC C&T CLUB WeChat, Alipay Mini Program and HTML5 pages with 100, 000+ users.
-              * Implemented functions including comment list, product list, coupon detail, and check in calendar.
+              * Developed apps to enhance user’s experiences on smartphones and on‑body devices (smartwatches, smart glasses, etc.).
+        # - title: Front End Developer Intern
+        #  company: Beijing Sunac Nebulape Technology
+        #  company_url: ''
+        #  company_logo: ''
+        #  location: Beijing
+        #  date_start: '2021-05-01'
+        #  date_end: '2021-08-01'
+        #  description: |2-
+        #      * Developed SUNAC C&T CLUB WeChat, Alipay Mini Program and HTML5 pages with 100, 000+ users.
+         #     * Implemented functions including comment list, product list, coupon detail, and check in calendar.
     design:
       columns: '2'
   # - block: collection
@@ -135,31 +134,31 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: All Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      columns: '2'
-      view: citation
+  #- block: collection
+  #  id: featured
+  #  content:
+   #   title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+ #       featured_only: true
+ #   design:
+ #     columns: '2'
+ #     view: card
+ # - block: collection
+ #   content:
+ #     title: All Publications
+ #     text: |-
+  #      {{% callout note %}}
+ #       Quickly discover relevant content by [filtering publications](./publication/).
+ #       {{% /callout %}}
+ #     filters:
+ #       folders:
+#          - publication
+#        exclude_featured: false
+ #   design:
+  #    columns: '2'
+   #   view: citation
   # - block: collection
   #   id: talks
   #   content:
